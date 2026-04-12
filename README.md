@@ -73,5 +73,5 @@ Apple's official tutorials designed for anyone new to building apps for Apple pl
 
 
 ## 🙏 Credits
-README template by [0sunset0](https://github.com/0sunset0)\n
+README template by [0sunset0](https://github.com/0sunset0) <br>
 thanks to sunset!
